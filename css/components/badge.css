@@ -9,3 +9,10 @@
   color: white;
   font-weight: 600;
 }
+.point-bedge {
+  background-color: tomato;
+  width: 5px;
+  height: 5px;
+  border-radius: 3px;
+  display: block;
+}
